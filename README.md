@@ -7,7 +7,7 @@
 $$P(x) e^{-\frac{a}{2} (x - q)^2},$$  
    where:
    - $a > 0$ is a positive real number,
-   - $q \in \mathbb{R}$ is a real-valued shift parameter,
+   - $q \in \\mathbb{R}$ is a real-valued shift parameter,
    - \( P(x) \) is a polynomial.
 
 3. **Complex Gaussian Wave Packets**  
